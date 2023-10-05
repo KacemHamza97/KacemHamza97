@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Hamza, and I'm thrilled you stopped by my little corner of the GitHub universe. I'm not just another code-loving human, I'm deeply passionate about data engineering, data science, and machine learning engineering. If you share the same passion, and you're interested in collaborating on projects or exchanging knowledge, don't hesitate to reach out!</p>
+<p align="left">👋 Hi, I'm Hamza, and I'm thrilled you stopped by my little corner of the GitHub universe. My expertise lies in data engineering, data science, and machine learning engineering. If you share the same passion, and you're interested in collaborating on projects or exchanging knowledge, don't hesitate to reach out! </p>
 
 ###
 
