@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp"  />
+<img align="right" height="300" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp"  />
 
 ###
 
-<p align="left">👋 Hi, I'm Hamza, and I'm thrilled you stopped by my little corner of the GitHub universe. My expertise lies in data engineering, data science, and machine learning engineering. If you share the same passion, and you're interested in collaborating on projects or exchanging knowledge, don't hesitate to reach out! </p>
+<p align="left">👋 Hi, I'm Hamza, and I'm thrilled you stopped by my little corner of the GitHub universe. My expertise lies in data engineering, data science, and machine learning engineering. If you share the same passion, and you're interested in collaborating on projects or exchanging knowledge, don't hesitate to reach out!</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KacemHamza97.KacemHamza97&left_text=Profile Views"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KacemHamza97.KacemHamza97&left_color=dimgray&left_text=Profile Views"  />
 
 ###
 
