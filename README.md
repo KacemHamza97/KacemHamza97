@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="350" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp"/>
+<img align="right" height="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp"  />
 
 ###
 
@@ -12,12 +12,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hamza-kacem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@hamza-kacem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="youtube logo"  />
   </a>
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KacemHamza97.KacemHamza97&left_text=Profile Views"  />
 
 ###
 
@@ -113,6 +117,20 @@
 
 ###
 
+<h3 align="left">Workflow Orchestrators</h3>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo"  />
+</div>
+
+###
+
 <h3 align="left">Databases</h3>
 
 ###
@@ -140,12 +158,16 @@
 
 ###
 
-<h1 align="left">Profile Views</h1>
+<h1 align="left">Languages</h1>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KacemHamza97/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=KacemHamza97&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=30&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
