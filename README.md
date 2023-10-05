@@ -21,7 +21,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KacemHamza97.KacemHamza97&left_color=dimgray&left_text=Profile Views"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KacemHamza97.KacemHamza97"  />
 
 ###
 
