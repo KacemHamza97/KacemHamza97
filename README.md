@@ -119,23 +119,28 @@
 
 <h3 align="left">Workflow Orchestrators</h3>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlfMGNjnYUcKNdn6AHTw07dkIRY5juCMtLM-8dsMibfLdMWrHDtILvB_ms4m9cvwxh9s&usqp=CAU" height="40" alt="airflow logo"  />
+  <img width="12" />
+   <img src="https://dagster.io/images/brand/logos/dagster-reversed-horizontal.png" height="40" alt="dagster logo"  />
+  <img width="12" />
 </div>
 
 ###
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Databases & Tools </h3>
 
 ###
 
 <div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVknKWdgd5tLdnAnBVDLGke_7rMSNMQhUJ7oRyMl1b567Mnq10eO0qSIxDF81nGDZZe5w&usqp=CAU" height="40" alt="dbt logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1112/0*rPqrr9iDtilrIbb0.png" height="40" alt="duckdb logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" height="40" alt="Snowflake logo"  />
+  <img width="12" />
+  <img src="https://www.iri.com/blog/wp-content/uploads/2021/12/bigquery-logo.png" height="40" alt="bigquery logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="40" alt="amazondynamodb logo"  />
